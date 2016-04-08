@@ -9,4 +9,4 @@ Technical: Firebase database (.jason tree non relational model), using cocoa pod
 ![alt tag](http://i.imgur.com/tpHlFCS.png?1)
 ![alt tag](http://i.imgur.com/2KhfeZ8.png?1)
 ![alt tag](http://i.imgur.com/NGjNqMy.png?1)
-![alt tag](http://i.imgur.com/3xFlB06.png?1)
+![alt tag](http://i.imgur.com/oZTgsjJ.png?1)
